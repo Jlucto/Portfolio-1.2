@@ -160,7 +160,6 @@ h4 {
 
 .about-text {
   width: 550px;
-  color:#fcfc;
 }
 
 .main {
@@ -188,7 +187,7 @@ h4 {
 }
 
 .about-text p {
-  color: rgba(255, 255, 255, 0.8);
+  color:#fcfc;
   letter-spacing: 1px;
   line-height: 28px;
   font-size: 18px;
