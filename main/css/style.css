@@ -320,6 +320,7 @@ canvas {
     text-align: center;
     padding: 40px 0 20px;
     color: #fff;
+background-image: url(bg.png);
 }
 
 .projects-title h2 {
