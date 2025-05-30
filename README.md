@@ -12,11 +12,11 @@ A personal portfolio website showcasing projects, skills, and experiences. Built
 
 ## Technologies Used
 
-| Language     | Percentage |
-| ------------ | ---------- |
-| JavaScript   | 83.1%      |
-| CSS          | 9.2%       |
-| HTML         | 7.7%       |
+| Language     | Usage  |
+| ------------ | ------ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-83.1%25-yellow?logo=javascript&logoColor=black&style=flat-square) |  |
+| ![CSS](https://img.shields.io/badge/CSS-9.2%25-blue?logo=css3&logoColor=white&style=flat-square) |  |
+| ![HTML](https://img.shields.io/badge/HTML-7.7%25-orange?logo=html5&logoColor=white&style=flat-square) |  |
 
 ## Getting Started
 
