@@ -1,33 +1,45 @@
-# Portfolio-1.2
+# Portfolio-1.2 Documentation
 
-A personal portfolio website showcasing projects, skills, and experiences. Built primarily with JavaScript, CSS, and HTML.
+## Overview
+
+**Portfolio-1.2** is a personal portfolio website designed to showcase your projects, skills, and experiences with a focus on interactive and modern design. The project utilizes JavaScript, CSS, and HTML. 
+
+---
 
 ## Features
 
-- Responsive and interactive design for desktop and mobile
-- Engaging UI elements (animations, transitions, hover effects)
-- Interactive project gallery
-- About, Projects, and Contact sections
-- Clean and modern UI
+- **Responsive Layout:** Adapts seamlessly to desktop and mobile devices.
+- **Interactive Design:** Includes engaging animations, transitions, and hover effects for a lively user experience.
+- **Project Gallery:** Dynamically displays your projects with details and links.
+- **Sections:** Structured into About, Projects, and Contact.
+- **Modern Aesthetics:** Clean typography, intuitive navigation, and visually appealing color schemes.
 
-## Technologies Used
+---
 
-| Language     | Usage  |
-| ------------ | ------ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-83.1%25-yellow?logo=javascript&logoColor=black&style=flat-square) |  |
-| ![CSS](https://img.shields.io/badge/CSS-9.2%25-blue?logo=css3&logoColor=white&style=flat-square) |  |
-| ![HTML](https://img.shields.io/badge/HTML-7.7%25-orange?logo=html5&logoColor=white&style=flat-square) |  |
+## Technology Breakdown
+
+| Language     | Usage                                                                                   |
+| ------------ | --------------------------------------------------------------------------------------- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-83.1%25-yellow?logo=javascript&logoColor=black&style=flat-square) | Main logic, interactivity, and DOM manipulation.    |
+| ![CSS](https://img.shields.io/badge/CSS-9.2%25-blue?logo=css3&logoColor=white&style=flat-square)       | Styling, layout, and responsive design.             |
+| ![HTML](https://img.shields.io/badge/HTML-7.7%25-orange?logo=html5&logoColor=white&style=flat-square)  | Page structure and semantic markup.                 |
+
+---
 
 ## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Jlucto/Portfolio-1.2.git
-   cd Portfolio-1.2
-   ```
+### 1. Clone the Repository
 
-2. **Open `index.html` in your browser:**
-   - No build tools or server required for basic viewing.
+```bash
+git clone https://github.com/Jlucto/Portfolio-1.2.git
+cd Portfolio-1.2
+```
+
+### 2. Open the Website
+
+Simply open `index.html` in your browser. No build process or server setup is required.
+
+---
 
 ## Project Structure
 
@@ -40,17 +52,23 @@ A personal portfolio website showcasing projects, skills, and experiences. Built
 │   └── main.js
 └── images/
 ```
-*(Structure may vary depending on your latest updates)*
+
+---
 
 ## Customization
 
-- Update `index.html` with your name, bio, and project details.
-- Add new projects or sections as desired.
-- Modify CSS for theming or layout changes.
+- **Personal Info:** Update `index.html` with your name, bio, and contact details.
+- **Projects:** Edit the Projects section to add or update your work.
+- **Styling:** Modify `styles.css` to change fonts, colors, or layout.
+- **Interactivity:** Enhance or tweak interactivity via `main.js`.
+
+---
 
 ## Contribution
 
-Contributions are welcome! Please fork the repository and submit a pull request for review.
+Contributions are encouraged! Please fork the repository and submit a pull request for review.
+
+---
 
 ## License
 
